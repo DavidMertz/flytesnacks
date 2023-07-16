@@ -224,6 +224,7 @@ set -gx PATH $PATH ~/.local/bin  # fish
 
 :::{code-block} csh
 set path = ($path $HOME/.local/bin)  # csh/tcsh
+>>>>>>> 35b914ab (Copy edit level documentation improvements)
 :::
 
 :::::
